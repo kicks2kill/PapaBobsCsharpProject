@@ -1,0 +1,25 @@
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.pdb
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csprojResolveAssemblyReference.cache
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.pdb
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.dll
+c:\users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll.config
+C:\Users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\bob_000\documents\visual studio 2013\Projects\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll.config
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.pdb
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.dll
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.dll
+C:\Users\GreyHat\source\repos\CS-ASP_070-Mega-Solution-Part10-Code\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.pdb
